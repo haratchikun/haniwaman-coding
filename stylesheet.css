@@ -1,0 +1,31 @@
+body{
+	font-family: "Yu Gothic",Regular;
+}
+
+
+li{
+	list-style: none;
+}
+
+/*header*/
+
+header{
+	background-color: #2A7EB1;
+	height: 70px;
+}
+
+.top-wrapper{
+	height: 270px;
+	background-image:url(mv.jpg); 
+	background-size: cover;
+}
+
+.logo{
+	padding: 16px 0 15px 93px;
+}
+
+.menu{
+	color: #FFFFFF;
+}
+
+/*header*/
